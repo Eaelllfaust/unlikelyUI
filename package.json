@@ -1,0 +1,18 @@
+{
+  "name": "unlikely-ui",
+  "version": "1.0.0",
+  "description": "Unlikely UI is the standard for unapologetic, dynamic and unique interfaces.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git remote add origin https://github.com/Eaelllfaust/unlikelyUI.git"
+  },
+  "keywords": [
+    "component-library"
+  ],
+  "author": "Eaelll Leon Faust",
+  "license": "MIT"
+}
